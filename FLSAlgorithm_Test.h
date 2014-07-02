@@ -43,7 +43,6 @@ public:
 
 signals:
 	void sendResults(const HandleResult &);
-	//void sendResults(HandleResult);
 
 public slots:
 	virtual void frameHandle() = 0; 
