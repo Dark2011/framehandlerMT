@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/framesHandler">
+        <file>frameHandlerIcons/add_sensor.png</file>
+        <file>frameHandlerIcons/color_adjustment.png</file>
+        <file>frameHandlerIcons/control_pause.png</file>
+        <file>frameHandlerIcons/control_play.png</file>
+        <file>frameHandlerIcons/control_stop.png</file>
+        <file>frameHandlerIcons/cornerPoints.png</file>
+        <file>frameHandlerIcons/cornerPoints_current.png</file>
+        <file>frameHandlerIcons/cornerPoints_notSet.png</file>
+        <file>frameHandlerIcons/cornerPoints_save.png</file>
+        <file>frameHandlerIcons/cornerPoints_set.png</file>
+        <file>frameHandlerIcons/eraseRoi.png</file>
+        <file>frameHandlerIcons/film_add.png</file>
+        <file>frameHandlerIcons/film_delete.png</file>
+        <file>frameHandlerIcons/magnifier_zoom_in.png</file>
+        <file>frameHandlerIcons/magnifier_zoom_out.png</file>
+        <file>frameHandlerIcons/next_frame.png</file>
+        <file>frameHandlerIcons/previous_frame.png</file>
+        <file>frameHandlerIcons/roi_delete.png</file>
+    </qresource>
+</RCC>
