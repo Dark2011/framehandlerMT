@@ -598,7 +598,7 @@ void FLSAlgorithm_OF_Type3::calcMinShootBr()
 			summaryBr += *arrIter;
 		minShootBrightness = ( summaryBr / (tempArr.size() / 2) ) * 2;
 	}
-	else minShootBrightness = 5;
+	else minShootBrightness = 3;
 	frameProperties->setMinShootBrightness(minShootBrightness);
 }
 
